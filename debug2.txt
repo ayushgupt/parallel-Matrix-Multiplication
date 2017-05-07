@@ -1,0 +1,33 @@
+1
+2
+3
+4
+5
+6
+in1
+in2
+in3
+in4
+in5
+in6
+in7
+7
+8
+9
+my_rows_number::1
+My rank is 2
+10
+row_col_data
+0 1 6
+0 3 2
+
+dimension:5
+B is 
+1
+2
+3
+4
+5
+ptr_vec is 
+0
+2
